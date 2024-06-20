@@ -3,7 +3,7 @@ I found a reddit post asking for the source for this game to be released, while 
 
 Right now the source is really confusing to go through, this isn't the fault of the original developers.
  
-# To do
+## To do
 Bug fixes
 
 ## Requirements
@@ -14,5 +14,5 @@ The version of the flash editior I used to compile this is quite old. While you 
 ### Fonts
 The required fonts are included in the `/Fonts/` folder, please add these to your system. 
 
-# Credits
+## Credits
 Obviously most of the credit here goes to [gainare_tottori](https://ks.fhs.sh/viewtopic.php?f=3&t=3071) on the katawa shoujo forums. 
