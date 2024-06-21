@@ -7638,7 +7638,7 @@ package releaseday_fork_fla
             while(_loc1_ <= 3)
             {
                this.gameField.removeChild(this.zaparray[_loc1_]);
-               delete global[this.zaparray[_loc1_] as boltline];
+               delete this.zaparray[_loc1_] as boltline;
                _loc1_++;
             }
             this.gameField.removeChild(this.zapglow);
