@@ -2192,9 +2192,10 @@ package releaseday_fork_fla
          }
          _loc5_ = "(disabled)";
          this.rcard.authcode.text = _loc5_;
-         this.rcard.grades.text = this.gggfdist.toFixed(2) + "\n" + this.statsArray[2].toFixed(2) + "\n" + this.statsArray[3].toFixed(2) + "\n" + _loc1_ + "\n" + _loc2_ + "\n" + _loc5_;
+         this.rcard.grades.text = this.gggfdist.toFixed(2) + "\n" + this.statsArray[2].toFixed(2) + "\n" + this.statsArray[3].toFixed(2) + "\n" + _loc1_ + "\n" + _loc2_;
          this.rcard.x = 100;
          this.rcard.y = 50;
+         this.rcard.isPressed = true;
          this.addChild(this.rcard);
          this.rcardStatus = 1;
       }
@@ -10739,7 +10740,8 @@ package releaseday_fork_fla
          }
          if(this.gameState == 5)
          {
-            if(mouseX >= 110 && mouseX <= 270 && mouseY >= 300 && mouseY <= 340)
+            // Return to main menu
+            if(this.rcard.isPressed)
             {
                this.gameState = 55;
                this.removeChild(this.rcard);
