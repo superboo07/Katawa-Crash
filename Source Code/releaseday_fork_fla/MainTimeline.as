@@ -2000,6 +2000,7 @@ package releaseday_fork_fla
                }
             }
          }
+         // Spawn the smoke but its potentionally very broken
          if(this.smokeArray.length > 0)
          {
             this.i = 0;
@@ -2019,6 +2020,7 @@ package releaseday_fork_fla
                ++this.i;
             }
          }
+         // Not sure what this does yet
          if(this.creepCount > 0)
          {
             this.i = 0;
@@ -2196,7 +2198,7 @@ package releaseday_fork_fla
          this.addChild(this.rcard);
          this.rcardStatus = 1;
       }
-      
+      // Called when hitting a character (?)
       public function doCharaHit() : void
       {
          var _loc1_:threechar = null;
@@ -7538,7 +7540,7 @@ package releaseday_fork_fla
             _loc2_++;
          }
       }
-      
+      // Zap??
       public function aerialCrashDown() : void
       {
          var _loc1_:* = undefined;
