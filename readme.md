@@ -11,5 +11,8 @@ The version of the flash editior I used to compile this is quite old. While you 
 ### Fonts
 The required fonts are included in the `/Fonts/` folder, please add these to your system. 
 
+## Contributations
+Contributations are much appreciated expecially on the script side, but if you are going to make a commit that changes the project file in any way please cordinate with me as I am not sure how well the fla format will play with source control when multiple people are making changes at once. 
+
 ## Credits
 Obviously most of the credit here goes to [gainare_tottori](https://ks.fhs.sh/viewtopic.php?f=3&t=3071) on the Katawa Shoujo forums. Also major credit to 4LS since most of the characters belong to them. Theres alot of other properties I don't recongize, if somehow something that belongs to you is here and you don't like it please contact me on discord (my username is superboo07) instead of taking down the entire project. Due to most of this project not really belonging to me I will not be giving it a license.

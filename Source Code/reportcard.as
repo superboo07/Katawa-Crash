@@ -6,6 +6,7 @@ package
    import flash.display.SimpleButton;
 
    
+   [Embed(source="/_assets/assets.swf", symbol="reportcard")]
    public dynamic class reportcard extends MovieClip
    {
        

@@ -2,6 +2,7 @@ package
 {
    import flash.display.MovieClip;
    
+   [Embed(source="/_assets/assets.swf", symbol="mishayukkiri")]
    public dynamic class mishayukkiri extends MovieClip
    {
        
