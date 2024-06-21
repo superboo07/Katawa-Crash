@@ -2024,7 +2024,7 @@ package releaseday_fork_fla
          if(this.creepCount > 0)
          {
             this.i = 0;
-            while(this.i <= 4)
+            while(this.i < this.creepArray.length)
             {
                if(this.creepArray[this.i].visible == true)
                {
