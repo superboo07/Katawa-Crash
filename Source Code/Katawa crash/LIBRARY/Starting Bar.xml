@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 540" itemID="6673cebc-000005db" linkageExportForAS="true" linkageClassName="mc12" lastModified="1718864958">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Starting Bar" itemID="66763ebd-00000389" linkageExportForAS="true" linkageClassName="mc12" lastModified="1719025353">
   <timeline>
-    <DOMTimeline name="Symbol 540">
+    <DOMTimeline name="Starting Bar">
       <layers>
         <DOMLayer name="Layer 1" color="#416FD0" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape isFloating="true">
+                <DOMShape selected="true" isFloating="true">
                   <fills>
                     <FillStyle index="1">
                       <BitmapFill bitmapPath="bitmap538.jpg" bitmapIsClipped="true">

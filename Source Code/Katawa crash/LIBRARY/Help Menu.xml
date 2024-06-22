@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 249" itemID="6673cebc-0000056f" linkageExportForAS="true" linkageClassName="helppanel" lastModified="1718864958">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Help Menu" itemID="66763e31-00000388" linkageExportForAS="true" linkageClassName="helppanel" lastModified="1719026238">
   <timeline>
-    <DOMTimeline name="Symbol 249">
+    <DOMTimeline name="Help Menu">
       <layers>
         <DOMLayer name="Layer 1" color="#88BE4A">
           <frames>
@@ -331,7 +331,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape isFloating="true">
+                <DOMShape>
                   <fills>
                     <FillStyle index="1">
                       <BitmapFill bitmapPath="bitmap210.jpg" bitmapIsClipped="true">
@@ -392,7 +392,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Symbol 226" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="1.00042724609375" d="1.000244140625" tx="20" ty="240"/>
+                    <Matrix a="1.00042724609375" d="1.000244140625" tx="20" ty="248"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -452,19 +452,26 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMStaticText width="498.15" height="190.8" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="495.5" height="47.7" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="132" ty="47"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Class rep.  Highly disapproves of unauthorized human missile testing.  If you hit her, &#xD;your trip is over.  However, her special status is the strongest in the game.  All girls &#xD;light her special, and hitting the ground unlights it.&#xD;Rogue artist.  Propels you at a 30-degree vector.  Holds the key to extra lives if you &#xD;discover the secret of starting the Rin timer.  Lights Emi&apos;s special.&#xD;Track star.  Propels you at a 60-degree vector.  Is probably not associated with &#xD;&quot;Street Fighter&quot; this much in the actual Katawa Shoujo.  Lights Rin&apos;s special.&#xD;Ara ara.  Propels you at a 45-degree vector.  Her special attack has been left &#xD;unanimated during beta testing for so long its blankness has evolved into &#xD;something borderline memetic.  Lights her own special.&#xD;Homeroom teacher.  Slows you down twice as much as hitting the ground does.  </characters>
+                      <characters>Class rep. Highly disapproves of unauthorized human missile testing. If you hit her, &#xD;your trip is over. However, her special status is the strongest in the game. All girls &#xD;light her special, and hitting the ground unlights it.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="484.95" height="31.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="132" ty="112.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Bummer.</characters>
+                      <characters>Rogue artist. Propels you at a 30-degree vector. Holds the key to extra lives if you discover the secret of starting the Rin timer. Lights Emi's special.</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
@@ -487,7 +494,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 13" color="#9C709E">
+        <DOMLayer name="Layer 13" color="#9C709E" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -542,39 +549,106 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMStaticText width="78.5" height="267.5" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="47.6" height="15.9" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix tx="43" ty="47"/>
+                    <Matrix tx="64" ty="53.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Shizune</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="31" letterSpacing="-0.05" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="20.25" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="69" ty="111.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Rin</characters>
+                      <characters>Rin</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="58" letterSpacing="-0.05" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="23.35" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="69" ty="165.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Emi</characters>
+                      <characters>Emi</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="55" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="23.75" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="64" ty="210.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Lilly</characters>
+                      <characters>Lilly</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="55" letterSpacing="-0.05" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="38.15" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="65" ty="263.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Mutou</characters>
+                      <characters>Mutou</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="40" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="47" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="487" height="31.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="130.95" ty="154.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Track star. Propels you at a 60-degree vector. Is probably not associated with &quot;Street Fighter&quot; this much in the actual Katawa Shoujo. Lights Rin&apos;s special.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="455" height="47.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="131.9" ty="207.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ara ara. Propels you at a 45-degree vector. Her special attack has been left &#xD;unanimated during beta testing for so long its blankness has evolved into something borderline memetic. Lights her own special.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="474.25" height="31.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="132.95" ty="267.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Homeroom teacher. Slows you down twice as much as hitting the ground does. &#xD;Bummer.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -582,21 +656,7 @@
               </elements>
             </DOMFrame>
             <DOMFrame index="4" keyMode="9728">
-              <elements>
-                <DOMStaticText width="500.65" height="462.5" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="136" ty="1"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Punching bag.  Grants 2 pig charges if struck.  No faculty member at any school has &#xD;managed to command less respect since Mr. Belding at Bayside High.&#xD;Ultimate wallflower.  Afraid of everything except being afraid of everything, thus &#xD;barely saving the Universe from an infinitely recursive divide by zero OH SHIIIII- &#xD;destruction.  Phew.  That was close.  Anyway, when struck enables PANIC MODE, &#xD;which blocks the next collision unless Misha intervenes.&#xD;WAHAHA!  Probably a time-travelling robot ninja.  Armed with powered drill hair and &#xD;diplomatic immunity from the laws of cause and effect.  Seeks to overthrow &#xD;Megatron as leader of the Decepticons. Where there's Misha, there's weird. &#xD;Anonynurse.  Resets Hisao's angle to 45 degrees.  You don't want to know about his &#xD;mysterious origins.  You REALLY don't want to know about his mysterious origins.&#xD;House Slythindor.  Mirrors Hisao's flight angle across 45 degrees. That means if you &#xD;were bouncing at 60-degree angles, you'll now be going 30 degrees, and if you were &#xD;going at 5 degrees, you'll probably want to reset very shortly.&#xD;There are other secret characters to hit with fun effects.  Happy hunting!</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="16" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-              </elements>
+              <elements/>
             </DOMFrame>
             <DOMFrame index="5" keyMode="9728">
               <elements/>
@@ -687,39 +747,145 @@
             </DOMFrame>
             <DOMFrame index="4" keyMode="9728">
               <elements>
-                <DOMStaticText width="79.55" height="203.5" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="86" height="15.9" isSelectable="false">
                   <matrix>
-                    <Matrix tx="43" ty="1"/>
+                    <Matrix tx="64" ty="13.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Yuuko</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="42" lineSpacing="31" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="46.25" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="70" ty="58.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Hanako</characters>
+                      <characters>Hanako</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="33" lineSpacing="31" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="36.1" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="71" ty="130.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Misha</characters>
+                      <characters>Misha</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="43" letterSpacing="-0.05" lineSpacing="31" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="35.15" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="72" ty="203.1"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Nurse</characters>
+                      <characters>Nurse</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="44" letterSpacing="-0.05" lineSpacing="31" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="30.1" height="15.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="71" ty="253.2"/>
+                  </matrix>
+                  <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Kenji</characters>
+                      <characters>Kenji</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="49" letterSpacing="-0.05" lineSpacing="31" size="14" bitmapSize="280" face="FranklinGothic-Medium"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" size="14" bitmapSize="280" face="Franklin Gothic Medium*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="428.75" height="35.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="134" ty="11.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Punching bag.  Grants 2 pig charges if struck.  No faculty member at any school has &#xD;managed to command less respect since Mr. Belding at Bayside High.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="409.7" height="75.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="131" ty="58.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ultimate wallflower.  Afraid of everything except being afraid of everything, thus &#xD;barely saving the Universe from an infinitely recursive divide by zero OH SHIIIII- &#xD;destruction.  Phew.  That was close.  Anyway, when struck enables PANIC MODE, &#xD;which blocks the next collision unless Misha intervenes.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="499.95" height="75.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="132" ty="143.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WAHAHA!  Probably a time-travelling robot ninja.  Armed with powered drill hair and &#xD;diplomatic immunity from the laws of cause and effect.  Seeks to overthrow &#xD;Megatron as leader of the Decepticons. Where there's Misha, there's weird. &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="447.95" height="35.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="130" ty="208.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Anonynurse. Resets Hisao's angle to 45 degrees.  You don't want to know about his mysterious origins.  You REALLY don't want to know about his mysterious origins.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="428.1" height="55.3" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="131" ty="249.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>House Slythindor.  Mirrors Hisao's flight angle across 45 degrees. That means if you &#xD;were bouncing at 60-degree angles, you'll now be going 30 degrees, and if you were &#xD;going at 5 degrees, you'll probably want to reset very shortly.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="365.3" height="15.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="271" ty="302.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>There are other secret characters to hit with fun effects.  Happy hunting!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.05" lineSpacing="5" bitmapSize="240" face="FranklinGothic-Medium"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -731,11 +897,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 15" color="#266FF5" current="true" isSelected="true">
+        <DOMLayer name="Layer 15" color="#266FF5">
           <frames>
             <DOMFrame index="0" duration="6" keyMode="9728">
               <elements>
-                <DOMShape isFloating="true">
+                <DOMShape>
                   <fills>
                     <FillStyle index="1">
                       <SolidColor color="#CCCCCC"/>
