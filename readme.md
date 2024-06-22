@@ -1,5 +1,5 @@
 # Katawa Crash Decompilation
-I found a reddit post asking for the source for this game to be released, while that was 10 years ago I found this game funny enough to warrent my effort for decompiling it. If you are looking to recompile the game please read the requirements section. Otherwise stick to the pre compiled releases.
+I found a reddit post asking for the source for this game to be released, while that was 10 years ago I found this game funny enough to warrent my effort for decompiling it. If you are looking to recompile the game please read the requirements section. Otherwise stick to the pre compiled releases. The goal of this project is to fix any bugs that were left unfixed when it was abandoned, while still maintaining most of the game the way it was in 2011. 
 
 Right now the source is really confusing to go through, this isn't the fault of the original developers since comments are (to my knowledge) thrown out during compiliation. While it would've been nice if things were nicely split into different files to make maintability easier, its not really my code to judge since it does (for the most part) function. 
 
