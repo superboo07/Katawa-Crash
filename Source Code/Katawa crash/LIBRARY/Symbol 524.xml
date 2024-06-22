@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 524" itemID="6673cebc-000005d6" linkageExportForAS="true" linkageClassName="pow" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 524">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C9B2CF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFCC00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF3300"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!820 -280|1980 -40!1980 -40|880 320!880 320|1580 1280!1580 1280|560 660!560 660|-80 2040!-80 2040|-360 720!-360 720|-1260 1400!-1260 1400|-840 340!-840 340|-2040 -60!-2040 -60|-920 -300!-920 -300|-1480 -1420!-1480 -1420|-280 -560!-280
+ -560|40 -1980!40 -1980|300 -580!300 -580|1600 -1520!1600 -1520|820 -280"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 401" itemID="6673cebc-000005ad" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 401">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FB6EA0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF6600"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-1007 -148|-1878 32!-1878 32|-1002 142!-1002 142|-1337 377!-1337 377|-697 282!-697 282|-897 543!-897 543|-352 262!-352 262|-437 497!-437 497|14 142!14 142|19 -128!19 -128|-307 -478!-307 -478|-262 -253!-262 -253|-967 -524!-967 -524|-692
+ -293!-692 -293|-1422 -308!-1422 -308|-1007 -148"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

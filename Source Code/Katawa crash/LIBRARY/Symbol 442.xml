@@ -1,0 +1,155 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 442" itemID="6673cebc-000005b4" linkageExportForAS="true" linkageClassName="mainmenubox" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 442">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FC07C3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm7" fontRenderingMode="device" width="96" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix d="0.998397827148438" tx="2" ty="152"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sfx: ON</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#7D2FDA">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm6" fontRenderingMode="device" width="96" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix d="0.998397827148438" tx="2" ty="122"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Bgm: ON</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#ACDC94">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm5" fontRenderingMode="device" width="166" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix d="0.998397827148438" tx="2" ty="182"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>katawa-shoujo.com</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#779AB8">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm4" fontRenderingMode="device" width="101" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="92"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Scoreboard</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#E54BD7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm3" fontRenderingMode="device" width="116" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Achievements</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#F18CA7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm2" fontRenderingMode="device" width="104" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="32"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>How to play</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#DB53D8" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="mm1" fontRenderingMode="device" width="101" height="27.15" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Start game</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="CatholicSchoolGirls-BB" fillColor="#330000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

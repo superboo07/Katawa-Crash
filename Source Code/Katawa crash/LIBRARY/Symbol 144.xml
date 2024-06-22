@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 144" itemID="6673cebc-0000054d" linkageExportForAS="true" linkageClassName="rinartcontainer" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 144">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C255E2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

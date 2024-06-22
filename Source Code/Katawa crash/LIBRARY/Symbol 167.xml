@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 167" itemID="6673cebc-00000555" linkageExportForAS="true" linkageClassName="theheart" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 167">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F2D495" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 166" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-45" ty="-92"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 85" itemID="6673cebc-00000532" linkageExportForAS="true" linkageClassName="binblast2" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 85">
+      <layers>
+        <DOMLayer name="Layer 1" color="#BDD3F1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3040 -5880|3160 -2760!3160 -2760|3940 -4280!3940 -4280|3600 -1560!3600 -1560|4420 -2800!4420 -2800|3695 289!3695 289|1881 390!1881 390|16 12!16 12|-420 -3440!-420 -3440|200 -2020!200 -2020|400 -4980!400 -4980|920 -3080!920 -3080|1460
+ -6440!1460 -6440|1660 -4220!1660 -4220|2100 -6800!2100 -6800|2520 -4100!2520 -4100|3040 -5880"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

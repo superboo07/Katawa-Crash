@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 97" itemID="6673cebc-00000538" linkageExportForAS="true" linkageClassName="specialfield" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 97">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F161D9" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14000 8000|0 8000!0 8000|0 0!0 0|14000 0!14000 0|14000 8000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

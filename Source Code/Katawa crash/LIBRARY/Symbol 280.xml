@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 280" itemID="6673cebc-0000057e" linkageExportForAS="true" linkageClassName="sackman" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 280">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DF3790" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 279" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-88" ty="-70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

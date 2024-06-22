@@ -1,0 +1,118 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 624" itemID="6673cebc-000005eb" linkageExportForAS="true" linkageClassName="eightbithiz" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 624">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FD714F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#603913"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FDC689"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#252525"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#005E20"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!220 40|180 40!180 40|180 20!180 20|220 20!220 20|220 40!240 40|240 60!240 60|220 60!220 60|220 40!220 40|240 40!40 180|40 100!40 100|60 100!60 100|60 80!60 80|80 80!80 80|80 60!80 60|160 60!160 60|160 40!160 40|180 40!180 40|180 60!180
+ 60|200 60!200 60|200 80!200 80|220 80!220 80|220 100!220 100|240 100!240 100|240 180"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!240 180|240 200!240 200|220 200"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!220 200|200 200!200 200|200 220!200 220|180 220!180 220|180 240!180 240|160 240"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!160 240|160 300!160 300|180 300"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!180 300|180 320!180 320|100 320!100 320|100 300"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!100 300|120 300!120 300|120 240"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!120 240|160 240"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!180 140|200 140!200 140|200 180!200 180|220 180!220 180|220 200"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!200 280|200 260!200 260|220 260!220 260|220 240!220 240|240 240!240 240|240 260!240 260|260 260!260 260|260 280!260 280|280 280"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!280 280|280 300!280 300|260 300!260 300|260 320!260 320|240 320"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!240 320|240 300!240 300|220 300"/>
+                    <Edge fillStyle0="5" fillStyle1="3" edges="
+!220 300|220 280!220 280|200 280"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!200 280|180 280!180 280|180 300"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!240 180|260 180!260 180|260 220!260 220|280 220!280 220|280 280"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!120 140|120 120!120 120|160 120!160 120|160 140"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!160 140|160 180!160 180|180 180!180 180|180 140"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!180 140|160 140"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!60 200|60 180!60 180|80 180!80 180|80 140!80 140|100 140"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!100 140|100 180!100 180|120 180!120 180|120 140"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!120 140|100 140"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!20 220|20 180!20 180|40 180"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!40 260|40 220!40 220|20 220"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!120 240|100 240!100 240|100 220!100 220|80 220!80 220|80 200!80 200|60 200"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!60 200|40 200!40 200|40 180"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!120 200|160 200!160 200|160 220!160 220|120 220!120 220|120 200"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!220 340|220 360!220 360|160 360!160 360|160 340"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!160 340|220 340"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!160 340|120 340"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!120 340|80 340!80 340|80 320!80 320|60 320"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!60 320|40 320!40 320|40 280"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!40 280|60 280"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!60 280|100 280!100 280|100 300"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!100 300|60 300!60 300|60 280"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!60 280|60 260!60 260|40 260"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!40 260|20 260!20 260|20 220"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!40 280|40 260!120 340|120 380!120 380|60 380!60 380|60 320"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!240 320|220 320!220 320|220 340"/>
+                    <Edge fillStyle1="1" edges="
+!300 400|0 400!0 400|0 0!0 0|300 0!300 0|300 400"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!180 300|220 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

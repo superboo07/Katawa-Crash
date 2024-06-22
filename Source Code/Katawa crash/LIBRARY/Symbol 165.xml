@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 165" itemID="6673cebc-00000553" linkageExportForAS="true" linkageClassName="binbackvec" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 165">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CDB6B4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1928 -120[2727 -120 3291 -43!3291 -43[3856 35 3856 145!3856 145[3856 255 3291 332!3291 332[2727 410 1928 410!1928 410[1129 410 564 332!564 332[0 255 0 145!0 145[0 35 564 -43!564 -43[1129 -120 1928 -120"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

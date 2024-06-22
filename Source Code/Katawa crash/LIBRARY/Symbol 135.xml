@@ -1,0 +1,119 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 135" itemID="6673cebc-00000548" linkageExportForAS="true" linkageClassName="natsume" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 135">
+      <layers>
+        <DOMLayer name="Layer 1" color="#A9F106">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 130" name="ef1" centerPoint3DX="2.65" centerPoint3DY="-119.85">
+                  <matrix>
+                    <Matrix tx="-19" ty="-146"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#5D9CBC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#41039E" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-235 -3035|50 -3020!50 -3020|-190 -2915!-190 -2915|30 -2825!30 -2825|-155 -2825!-155 -2825|-55 -2590!-55 -2590|-230 -2685!-230 -2685|-225 -2455!-225 -2455|-320 -2660!-320 -2660|-380 -2390!-380 -2390|-415 -2660!-415 -2660|-575 -2445!-575
+ -2445|-500 -2710!-500 -2710|-770 -2670!-770 -2670|-565 -2810!-565 -2810|-815 -2880!-815 -2880|-590 -2935!-590 -2935|-815 -3095!-815 -3095|-555 -3085!-555 -3085|-650 -3350!-650 -3350|-485 -3130!-485 -3130|-420 -3435!-420 -3435|-390 -3135
+!-390 -3135|-225 -3380!-225 -3380|-300 -3120!-300 -3120|-30 -3205!-30 -3205|-235 -3035"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#DFCB41">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 133" name="lz2" centerPoint3DX="254.85" centerPoint3DY="-83.8">
+                  <matrix>
+                    <Matrix d="0.5" tx="154.25" ty="-99.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#7F4AC1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 133" name="lz1" centerPoint3DX="247.85" centerPoint3DY="-141.7">
+                  <matrix>
+                    <Matrix d="0.5" tx="147.25" ty="-157.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#5283FB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 130" name="ef2" centerPoint3DX="36.65" centerPoint3DY="-117.85">
+                  <matrix>
+                    <Matrix tx="15" ty="-144"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#CDAD75" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="bitmap127.png" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-90" ty="-225"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-1800 -4500|1800 -4500!1800 -4500|1800 0!1800 0|-1800 0!-1800 0|-1800 -4500"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

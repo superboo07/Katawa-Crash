@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 78" itemID="6673cebc-0000052e" linkageExportForAS="true" linkageClassName="workscircle" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 78">
+      <layers>
+        <DOMLayer name="Layer 1" color="#7F42FB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!353 -354[500 -207 500 0!500 0[500 207 353 353!353 353[207 500 0 500!0 500[-207 500 -354 353!-354 353[-500 207 -500 0!-500 0[-500 -207 -354 -354!-354 -354[-207 -500 0 -500!0 -500[207 -500 353 -354"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

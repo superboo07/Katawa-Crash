@@ -1,0 +1,262 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Report Card" itemID="66752805-0000038b" linkageExportForAS="true" linkageClassName="reportcard" lastModified="1718954617" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Report Card">
+      <layers>
+        <DOMLayer name="Layer 1" color="#A86B9E">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="entscore" fontRenderingMode="device" width="150.95" height="36.3" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="365" ty="382"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>(disabled)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="21" bitmapSize="420" face="FranklinGothic-Medium" fillColor="#333300"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#10CBE5">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="playagain" fontRenderingMode="device" width="132.95" height="29.55" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-12" ty="342.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Main menu</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="21" bitmapSize="420" face="FranklinGothic-Medium" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#8CEE2C">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="authcode" fontRenderingMode="device" width="172.05" height="39.05" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="188.95" ty="354.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a12bc34z</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="32" bitmapSize="640" face="Impact" fillColor="#003300"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#F66A8A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="grades" fontRenderingMode="device" width="176.05" height="168" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="255.95" ty="67"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1234612345612345612345561234</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="21" bitmapSize="420" face="FranklinGothic-Medium" fillColor="#660000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#2AD38D" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tx2" fontRenderingMode="device" width="232.95" height="182.95" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="12" ty="67"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Total Distance:Maximum Height:Maximum Speed:Objects Struck:Special Events:Authentication</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="0" size="21" bitmapSize="420" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#70CEB3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tx1" fontRenderingMode="device" width="498.95" height="40" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1" ty="13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>YAMAKU H.S. BALLISTICS CLUB</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="32" bitmapSize="640" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#A2B5AA">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!260 1200|9619 1200"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#E40ECB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCC00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#66CCFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7700 6300/10920 6300!10920 6300/10920 7040!10920 7040/7700 7040!7700 7040/7700 6300"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!200 7139/3399 7139!3399 7139/3399 7879!3399 7879/200 7879!200 7879/200 7139"/>
+                    <Edge cubics="!7700 7040(;7700,7040 7700,6300 7700,6300q7700 7040 7700 6300);"/>
+                    <Edge cubics="!10920 6300(;10920,6300 10920,7040 10920,7040q10920 6300 10920 7040);"/>
+                    <Edge cubics="!10920 7040(;10920,7040 7700,7040 7700,7040q10920 7040 7700 7040);"/>
+                    <Edge cubics="!7700 6300(;7700,6300 10920,6300 10920,6300q7700 6300 10920 6300);"/>
+                    <Edge cubics="!200 7879(;200,7879 200,7139 200,7139q200 7879 200 7139);"/>
+                    <Edge cubics="!3399 7139(;3399,7139 3399,7879 3399,7879q3399 7139 3399 7879);"/>
+                    <Edge cubics="!200 7139(;200,7139 3399,7139 3399,7139q200 7139 3399 7139);"/>
+                    <Edge cubics="!3399 7879(;3399,7879 200,7879 200,7879q3399 7879 200 7879);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#6FD5D8">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#41039E" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!7780 0|10000 0!10000 0|10000 6000!10000 6000|0 6000!0 6000|0 4399"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 4399|0 0!0 0|7780 0"/>
+                    <Edge cubics="!7780 0(7780,0;7780,0 10000,0 10000,0q7780 0 10000 0);"/>
+                    <Edge cubics="!10000 0(;10000,0 10000,6000 10000,6000q10000 0 10000 6000);"/>
+                    <Edge cubics="!0 6000(;0,6000 0,4399 0,4399q0 6000 0 4399);"/>
+                    <Edge cubics="!0 4399(;0,4399 0,0 0,0q0 4399 0 0);"/>
+                    <Edge cubics="!10000 6000(;10000,6000 0,6000 0,6000q10000 6000 0 6000);"/>
+                    <Edge cubics="!0 0(;0,0 7780,0 7780,0q0 0 7780 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMComponentInstance libraryItemName="Button" name="returnToMainMenu" centerPoint3DX="246.35" centerPoint3DY="275.35" uniqueID="3">
+                  <matrix>
+                    <Matrix a="2.5699462890625" d="1.64996337890625" tx="117.85" ty="257.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="11"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Main Menu" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" variable="toggle" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

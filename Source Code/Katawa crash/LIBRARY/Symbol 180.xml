@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 180" itemID="6673cebc-00000558" symbolType="graphic" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 180">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009140"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!790 1380[818 1061 841 900!841 900[1008 971 999 1186!999 1186[996 1262 969 1382!969 1382|921 1580!921 1580[1155 1446 1281 1320!1281 1320|1207 1704!1207 1704[1164 1932 1141 2092!1141 2092|1178 2098!1178 2098|1221 2100!1221 2100[1185 2160
+ 1133 2219!1133 2219|1041 2320!1041 2320[970 2198 921 2040!921 2040|972 2060!972 2060|1021 2080!1021 2080[1025 2024 1043 1875!1043 1875|1061 1660!1061 1660[1018 1685 904 1762!904 1762|741 1860!741 1860[761 1713 790 1380"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

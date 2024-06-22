@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 327" itemID="6673cebc-00000591" linkageExportForAS="true" linkageClassName="boltflash" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 327">
+      <layers>
+        <DOMLayer name="Layer 1" color="#2BD7AD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0611572265625" d="0.0611572265625"/>
+                        </matrix>
+                        <GradientEntry color="#00FFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!460 -280|828 -196!828 -196|507 -62!507 -62|995 60!995 60|532 187!532 187|770 560!770 560|342 488!342 488|350 825!350 825|60 540!60 540|0 1000!0 1000|-160 480!-160 480|-460 800!-460 800|-360 380!-360 380|-760 520!-760 520|-400 160!-400
+ 160|-1000 0!-1000 0|-500 -140!-500 -140|-700 -500!-700 -500|-360 -320!-360 -320|-480 -880!-480 -880|-120 -500!-120 -500|40 -1000!40 -1000|185 -520!185 -520|460 -850!460 -850|340 -415!340 -415|761 -623!761 -623|460 -280"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

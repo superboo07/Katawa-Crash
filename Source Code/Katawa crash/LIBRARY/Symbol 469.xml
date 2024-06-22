@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 469" itemID="6673cebc-000005c7" linkageExportForAS="true" linkageClassName="menubar" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 469">
+      <layers>
+        <DOMLayer name="Layer 1" color="#ABFE66">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="menutext" fontRenderingMode="device" width="105.15" height="34" renderAsHTML="true">
+                  <matrix>
+                    <Matrix a="1.00045776367188" tx="6.95" ty="-30"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" rotation="true" size="24" bitmapSize="480" face="FranklinGothic-Medium"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#A05FC7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#6666CC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#33FF66" alpha="0.00392156862745098"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2103 0|2400 0!2400 0|3000 -600!3000 -600|2700 -600"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!2700 -600|2400 -600"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!2400 -600|1806 0"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!1806 0|2103 0"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!2103 0|2700 -600"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1806 0|0 0!0 0|0 -600!0 -600|2400 -600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

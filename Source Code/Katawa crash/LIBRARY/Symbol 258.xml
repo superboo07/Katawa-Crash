@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 258" itemID="6673cebc-00000574" linkageExportForAS="true" linkageClassName="halfloop" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 258">
+      <layers>
+        <DOMLayer name="Layer 1" color="#13ACD3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 257" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0918121337890625" d="0.0801544189453125" tx="-55" ty="-12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

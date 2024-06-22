@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 120" itemID="6673cebc-00000542" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 120">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E9C4A0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!849 -282[1200 -166 1200 0!1200 0[1200 166 849 283!849 283[497 400 0 400!0 400[-497 400 -848 283!-848 283[-1200 166 -1200 0!-1200 0[-1200 -166 -848 -282!-848 -282[-497 -400 0 -400!0 -400[497 -400 849 -282"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

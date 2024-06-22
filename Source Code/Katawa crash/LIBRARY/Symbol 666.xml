@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 666" itemID="6673cebc-000005f9" symbolType="graphic" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 666">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2940 -75|2940 75!3020 -75|3020 75!3100 -75|3100 75!3180 -75|3180 75!3260 -75|3260 75!3340 -75|3340 75!3420 -75|3420 75!3500 -75|3500 75!2860 -75|2860 75!2780 -75|2780 75!2700 -75|2700 75!2620 -75|2620 75!2540 -75|2540 75!2140 -75|2140
+ 75!2460 -75|2460 75!2380 -75|2380 75!2300 -75|2300 75!2220 -75|2220 75!2060 -75|2060 75!1980 -75|1980 75!1900 -75|1900 75!1820 -75|1820 75!1740 -75|1740 75!1340 -75|1340 75!1660 -75|1660 75!1580 -75|1580 75!1500 -75|1500 75!1420 -75
+|1420 75!1260 -75|1260 75!1180 -75|1180 75!1100 -75|1100 75!1020 -75|1020 75!940 -75|940 75!540 -75|540 75!860 -75|860 75!780 -75|780 75!700 -75|700 75!620 -75|620 75!60 -75|60 75!140 -75|140 75!220 -75|220 75!300 -75|300 75!380 -75|380
+ 75!460 -75|460 75!-20 -75|-20 75"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

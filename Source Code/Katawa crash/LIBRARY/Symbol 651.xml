@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 651" itemID="6673cebc-000005f4" linkageExportForAS="true" linkageClassName="achmenu" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 651">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8B4BC7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="xpla2" fontRenderingMode="device" width="396" height="71" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="227" ty="67"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Xpla2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="14" bitmapSize="280" face="FranklinGothic-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#8D89CF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="xpla1" fontRenderingMode="device" width="396" height="31" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="227" ty="27"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Xpla1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="FranklinGothic-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#BB9460">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="name3" fontRenderingMode="device" width="171" height="31" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="27" ty="107"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name3</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="20" bitmapSize="400" face="FranklinGothic-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#52EEC1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="name2" fontRenderingMode="device" width="171" height="31" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="27" ty="67"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="20" bitmapSize="400" face="FranklinGothic-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#7986A7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="name1" fontRenderingMode="device" width="171" height="31" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="27" ty="27"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="20" bitmapSize="400" face="FranklinGothic-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#7588E6">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 645" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

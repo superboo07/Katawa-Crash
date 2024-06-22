@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 189" itemID="6673cebc-0000055c" linkageExportForAS="true" linkageClassName="binmask" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 189">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B0DFFB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0033FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="8">
+                        <fill>
+                          <SolidColor color="#41039E" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4354 -180[3972 14 3993 86!3993 86[4014 159 3631 2317!3631 2317[3440 3396 3245 4461!3245 4461|2338 4890!2338 4890|1703 4860!1703 4860|1069 4833!1069 4833|448 4360!448 4360|70 20!70 20|-1600 -1340!-1600 -1340|-2480 -4900!-2480 -4900|-2380
+ -8259!-2380 -8259|6620 -8259!6620 -8259|6540 -4519!6540 -4519|5800 -1880!5800 -1880|4740 -360!4740 -360[4545 -277 4354 -180"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

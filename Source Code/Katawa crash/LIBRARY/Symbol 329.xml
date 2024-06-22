@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 329" itemID="6673cebc-00000592" linkageExportForAS="true" linkageClassName="uiGlow" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 329">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CF4B92" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient spreadMethod="reflect" interpolationMethod="linearRGB">
+                        <matrix>
+                          <Matrix a="0" b="0.009002685546875" c="-0.0610198974609375" d="0" tx="50" ty="22.35"/>
+                        </matrix>
+                        <GradientEntry color="#FFFF00" ratio="0"/>
+                        <GradientEntry color="#FF7F00" alpha="0.501960784313725" ratio="0.517647058823529"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2000 600|0 600!0 600|0 0!0 0|2000 0!2000 0|2000 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

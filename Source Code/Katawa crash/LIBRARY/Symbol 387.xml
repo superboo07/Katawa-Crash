@@ -1,0 +1,467 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 387" itemID="6673cebc-000005a8" linkageExportForAS="true" linkageClassName="boltline" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 387">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DAD814" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.06317138671875" c="0.028076171875" d="0" tx="-0.05" ty="-55.5"/>
+                        </matrix>
+                        <GradientEntry color="#00FFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0015106201171875" d="0.003814697265625" tx="21.75" ty="-75.65"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.005157470703125" d="0" tx="16.3" ty="-72.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00439453125" d="0.00457763671875" tx="8.4" ty="-68.75"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="4">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00469970703125" d="0.007171630859375" tx="10.15" ty="-63.9"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="5">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00469970703125" d="0" tx="17.85" ty="-69.75"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="6">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.000762939453125" d="0.0054931640625" tx="22.35" ty="-74.25"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="7">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0015106201171875" d="0.005035400390625" tx="3.6" ty="-69.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="8">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0031890869140625" d="0.00946044921875" tx="4.95" ty="-81"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="9">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0030364990234375" d="0.0073089599609375" tx="11.3" ty="-15.75"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="10">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0027313232421875" d="0.006256103515625" tx="16.05" ty="-26.9"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="11">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0" d="0.01007080078125" tx="18.25" ty="-40.25"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="12">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.001373291015625" d="0.008544921875" tx="17.1" ty="-41.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="13">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0030364990234375" d="0.004119873046875" tx="13.55" ty="-31.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="14">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0036468505859375" d="0.0030517578125" tx="8.05" ty="-30.25"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="15">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.004547119140625" d="0.006256103515625" tx="3.85" ty="-16.65"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="16">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0022735595703125" d="0.00640869140625" tx="3.2" ty="-38"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="17">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0030364990234375" d="0.009002685546875" tx="3.85" ty="-50.65"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="18">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.000457763671875" d="0.005950927734375" tx="8.4" ty="-4.9"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="19">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.004852294921875" d="0.00091552734375" tx="-10.35" ty="-47.25"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="20">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00653076171875" d="0.00152587890625" tx="-10.75" ty="-43"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="21">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0031890869140625" d="0.008087158203125" tx="-2.75" ty="-35.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="22">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00531005859375" d="0.007476806640625" tx="-18.7" ty="-54.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="23">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.004241943359375" d="0.009765625" tx="-19.55" ty="-52.25"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="24">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0030364990234375" d="0.006561279296875" tx="-0.65" ty="-65.9"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="25">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0050048828125" d="0.008544921875" tx="-2.25" ty="-53.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="26">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.001068115234375" d="0.00701904296875" tx="-0.8" ty="-5.75"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="27">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0071258544921875" d="0.008087158203125" tx="1.7" ty="-95.4"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="28">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00469970703125" d="0.008087158203125" tx="-0.3" ty="-95.4"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="29">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.0041046142578125" d="0.01068115234375" tx="0.2" ty="-80"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="30">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00469970703125" d="0.004119873046875" tx="3.7" ty="-25.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="31">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.00592041015625" d="0" tx="3.2"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#00FFFF" alpha="0.329411764705882" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="6" edges="!460 -1575|435 -1395"/>
+                    <Edge fillStyle1="1" strokeStyle="5" edges="!435 -1395|281 -1395"/>
+                    <Edge fillStyle1="1" strokeStyle="4" edges="!281 -1395|127 -1160"/>
+                    <Edge fillStyle1="1" strokeStyle="17" edges="!127 -1160|27 -865"/>
+                    <Edge fillStyle1="1" strokeStyle="16" edges="!27 -865|102 -655"/>
+                    <Edge fillStyle1="1" strokeStyle="14" edges="!102 -655|221 -555"/>
+                    <Edge fillStyle1="1" strokeStyle="13" edges="!221 -555|321 -690"/>
+                    <Edge fillStyle1="1" strokeStyle="12" edges="!321 -690|365 -970"/>
+                    <Edge fillStyle1="1" strokeStyle="11" edges="!365 -970|365 -640"/>
+                    <Edge fillStyle1="1" strokeStyle="10" edges="!365 -640|276 -435"/>
+                    <Edge fillStyle1="1" strokeStyle="9" edges="!276 -435|176 -195"/>
+                    <Edge fillStyle1="1" strokeStyle="18" edges="!176 -195|161 0"/>
+                    <Edge fillStyle1="1" strokeStyle="31" edges="!161 0|-33 0"/>
+                    <Edge fillStyle1="1" strokeStyle="26" edges="!-33 0|2 -230"/>
+                    <Edge fillStyle1="1" strokeStyle="15" edges="!2 -230|151 -435"/>
+                    <Edge fillStyle1="1" strokeStyle="30" edges="!151 -435|-3 -570"/>
+                    <Edge fillStyle1="1" strokeStyle="21" edges="!-3 -570|-107 -835"/>
+                    <Edge fillStyle1="1" strokeStyle="20" edges="!-107 -835|-321 -885"/>
+                    <Edge fillStyle1="1" strokeStyle="23" edges="!-321 -885|-460 -1205"/>
+                    <Edge fillStyle1="1" strokeStyle="22" edges="!-460 -1205|-286 -960"/>
+                    <Edge fillStyle1="1" strokeStyle="19" edges="!-286 -960|-127 -930"/>
+                    <Edge fillStyle1="1" strokeStyle="25" edges="!-127 -930|37 -1210"/>
+                    <Edge fillStyle1="1" strokeStyle="24" edges="!37 -1210|-62 -1425"/>
+                    <Edge fillStyle1="1" strokeStyle="29" edges="!-62 -1425|72 -1775"/>
+                    <Edge fillStyle1="1" strokeStyle="28" edges="!72 -1775|-82 -2040"/>
+                    <Edge fillStyle1="1" strokeStyle="27" edges="!-82 -2040|151 -1775"/>
+                    <Edge fillStyle1="1" strokeStyle="8" edges="!151 -1775|47 -1465"/>
+                    <Edge fillStyle1="1" strokeStyle="7" edges="!47 -1465|97 -1300"/>
+                    <Edge fillStyle1="1" strokeStyle="3" edges="!97 -1300|241 -1450"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!241 -1450|410 -1450"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!410 -1450|460 -1575"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

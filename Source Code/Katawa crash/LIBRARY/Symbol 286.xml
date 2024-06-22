@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 286" itemID="6673cebc-00000583" linkageExportForAS="true" linkageClassName="binblast1" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 286">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F5B0A5" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!820 -3460|1380 -321!1380 -321|2000 -1501!2000 -1501|1753 1038!1753 1038|40 -21!40 -21|-2700 -2620!-2700 -2620|-1040 -1601!-1040 -1601|-2260 -4400!-2260 -4400|-420 -2100!-420 -2100|-620 -4440!-620 -4440|660 -1421!660 -1421|820 -3460"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

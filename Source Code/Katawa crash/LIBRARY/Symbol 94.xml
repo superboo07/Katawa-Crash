@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 94" itemID="6673cebc-00000536" linkageExportForAS="true" linkageClassName="rainbowwizard" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 94">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8DDB43" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="bitmap92.png" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="0.0018310546875" b="-19.9996948242188" c="19.9996948242188" d="0.0018310546875" tx="-389.15" ty="316"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!357 6321|-7783 6320!-7783 6320|-7782 0!-7782 0|358 1!358 1|357 6321"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

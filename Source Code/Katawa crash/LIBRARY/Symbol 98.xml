@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 98" itemID="6673cebc-00000539" linkageExportForAS="true" linkageClassName="thurmanctn" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 98">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F6F39D" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 97" name="ttbg" centerPoint3DX="350" centerPoint3DY="200">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 319" itemID="6673cebc-0000058f" linkageExportForAS="true" linkageClassName="grad1" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 319">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EABEC0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0284423828125" c="-0.244140625" d="0" tx="200" ty="24.3"/>
+                        </matrix>
+                        <GradientEntry color="#0000C0" ratio="0"/>
+                        <GradientEntry color="#0000C1" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8000 -3800|8000 1000!8000 1000|0 1000!0 1000|0 -3800!0 -3800|8000 -3800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

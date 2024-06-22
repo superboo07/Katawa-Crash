@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 137" itemID="6673cebc-00000549" linkageExportForAS="true" linkageClassName="cloudsmoke" lastModified="1718864958">
+  <timeline>
+    <DOMTimeline name="Symbol 137">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8787CA" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#33FF66" alpha="0.00392156862745098"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!661 -186|729 -192!729 -192|879 -175!879 -175[1099 -114 1105 136!1105 136[1111 386 831 373!831 373[691 367 550 310!550 310|606 359!606 359[668 420 703 483!703 483[813 683 600 820!600 820[388 958 178 813!178 813[73 740 10 640!10 640[-70
+ 745 -188 820!-188 820[-426 970 -620 820!-620 820[-814 670 -769 473!-769 473[-754 411 -718 353!-718 353|-684 306!-684 306|-743 308!-743 308[-813 306 -872 287!-872 287[-1061 226 -1061 20!-1061 20[-1061 -186 -780 -274!-780 -274[-640 -317
+ -500 -320!-500 -320[-571 -420 -600 -533!-600 -533[-659 -758 -450 -821!-450 -821[-244 -883 -86 -703!-86 -703[-7 -613 30 -510!30 -510[108 -608 231 -677!231 -677[479 -814 710 -670!710 -670[920 -539 812 -350!812 -350[778 -290 716 -232!716
+ -232|661 -186"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
