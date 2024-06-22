@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Report Card" itemID="66752805-0000038b" linkageExportForAS="true" linkageClassName="reportcard" lastModified="1718954617" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Report Card" itemID="66752805-0000038b" linkageExportForAS="true" linkageClassName="reportcard" lastModified="1719023260" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="Report Card">
       <layers>
@@ -23,13 +23,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 2" color="#10CBE5">
+        <DOMLayer name="Layer 2" color="#10CBE5" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="playagain" fontRenderingMode="device" width="132.95" height="29.55" renderAsHTML="true" lineType="multiline">
+                <DOMDynamicText name="playagain" selected="true" width="132.95" height="29.55" renderAsHTML="true" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-12" ty="342.2"/>
+                    <Matrix tx="185.2" ty="263.8"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -69,7 +69,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="grades" fontRenderingMode="device" width="176.05" height="168" renderAsHTML="true" lineType="multiline">
+                <DOMDynamicText name="grades" width="176.05" height="168" renderAsHTML="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="255.95" ty="67"/>
                   </matrix>
@@ -86,11 +86,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 5" color="#2AD38D" current="true" isSelected="true">
+        <DOMLayer name="Layer 5" color="#2AD38D">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="tx2" fontRenderingMode="device" width="232.95" height="182.95" renderAsHTML="true" lineType="multiline">
+                <DOMDynamicText name="tx2" width="232.95" height="182.95" renderAsHTML="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="12" ty="67"/>
                   </matrix>
@@ -111,7 +111,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="tx1" fontRenderingMode="device" width="498.95" height="40" renderAsHTML="true" lineType="multiline">
+                <DOMDynamicText name="tx1" width="498.95" height="40" renderAsHTML="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="1" ty="13"/>
                   </matrix>
@@ -173,12 +173,12 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!7700 6300/10920 6300!10920 6300/10920 7040!10920 7040/7700 7040!7700 7040/7700 6300"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!13420 9848/10200 9848!10200 9848/10200 9108!10200 9108/13420 9108!13420 9108/13420 9848"/>
                     <Edge fillStyle1="2" strokeStyle="1" edges="!200 7139/3399 7139!3399 7139/3399 7879!3399 7879/200 7879!200 7879/200 7139"/>
-                    <Edge cubics="!7700 7040(;7700,7040 7700,6300 7700,6300q7700 7040 7700 6300);"/>
-                    <Edge cubics="!10920 6300(;10920,6300 10920,7040 10920,7040q10920 6300 10920 7040);"/>
-                    <Edge cubics="!10920 7040(;10920,7040 7700,7040 7700,7040q10920 7040 7700 7040);"/>
-                    <Edge cubics="!7700 6300(;7700,6300 10920,6300 10920,6300q7700 6300 10920 6300);"/>
+                    <Edge cubics="!10200 9848(;10200,9848 10200,9108 10200,9108q10200 9848 10200 9108);"/>
+                    <Edge cubics="!13420 9108(;13420,9108 13420,9848 13420,9848q13420 9108 13420 9848);"/>
+                    <Edge cubics="!13420 9848(;13420,9848 10200,9848 10200,9848q13420 9848 10200 9848);"/>
+                    <Edge cubics="!10200 9108(;10200,9108 13420,9108 13420,9108q10200 9108 13420 9108);"/>
                     <Edge cubics="!200 7879(;200,7879 200,7139 200,7139q200 7879 200 7139);"/>
                     <Edge cubics="!3399 7139(;3399,7139 3399,7879 3399,7879q3399 7139 3399 7879);"/>
                     <Edge cubics="!200 7139(;200,7139 3399,7139 3399,7139q200 7139 3399 7139);"/>
@@ -226,7 +226,7 @@
                   <transformationPoint>
                     <Point x="50" y="11"/>
                   </transformationPoint>
-                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Report Card' oldCopiedComponentPath='3'>
 </component>
 ]]></dataBindingXML>
                   <parametersAsXML><![CDATA[   <property id="emphasized">
@@ -236,10 +236,10 @@
       <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
    </property>
    <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Main Menu" type="String"/>
+      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="" type="String"/>
    </property>
    <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="bottom" enumeration="left,right,top,bottom" type="List"/>
    </property>
    <property id="selected">
       <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>

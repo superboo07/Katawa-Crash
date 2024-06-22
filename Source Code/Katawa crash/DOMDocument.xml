@@ -9,7 +9,7 @@
           <DOMFontItem name="Font 1" itemID="6673ceb7-000001d1" linkageExportForAS="true" linkageClassName="impfont" font="Impact" size="0" id="1" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
           <DOMFontItem name="Font 2" itemID="6673ceb7-000001d3" linkageExportForAS="true" linkageClassName="csgbb" font="CatholicSchoolGirls-BB" size="0" id="2" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
           <DOMFontItem name="Font 3" itemID="6673ceb7-000001d5" linkageExportForAS="true" linkageClassName="ninfont" font="Press-Start-2P" size="0" id="3" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
-          <DOMFontItem name="Font 4" itemID="6673ceb7-000001d7" linkageExportForAS="true" linkageClassName="fgm" font="FranklinGothic-Medium" size="0" id="4" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Franklin Gothic Medium" itemID="66763667-00000384" linkageExportForAS="true" linkageClassName="fgm" font="FranklinGothic-Medium" size="0" id="4" sourceLastImported="1719023260" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="9999|1|2|3|4|5"/>
           <DOMFontItem name="Font 656" itemID="6673ceb7-000001d9" font="Winter-in-Gotham" size="0" id="656" embeddedCharacters="ACEHLNPRSU"/>
      </fonts>
      <media>
@@ -313,7 +313,7 @@
           <Include href="Component Assets/ButtonSkins/Button_selectedUpSkin.xml" itemID="44a3380d-00000018" lastModified="1718954207"/>
           <Include href="Component Assets/ButtonSkins/Button_upSkin.xml" itemID="44a3377f-00000014" lastModified="1718954261"/>
           <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
-          <Include href="Report Card.xml" itemID="66752805-0000038b" lastModified="1718954617"/>
+          <Include href="Report Card.xml" itemID="66752805-0000038b" lastModified="1719023260"/>
           <Include href="Symbol 68.xml" itemID="6673cebc-0000052b" lastModified="1718864958"/>
           <Include href="Symbol 73.xml" itemID="6673cebc-0000052c" lastModified="1718864958"/>
           <Include href="Symbol 76.xml" itemID="6673cebc-0000052d" lastModified="1718864958"/>
